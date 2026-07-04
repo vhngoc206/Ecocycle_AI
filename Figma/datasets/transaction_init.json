@@ -1,0 +1,10 @@
+{
+  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "transactions": [
+    { "id": "HD-2026001", "productName": "Áo Hoodie Tech Fleece", "buyer": "Minh Anh",  "seller": "@ecoseller_87",       "amount": 520000,  "ecoImpact": 18, "paymentMethod": "COD",  "status": "Đã hoàn thành", "createdAt": "2026-06-02T08:12:00.000Z" },
+    { "id": "HD-2026002", "productName": "Quần Jean Slim Fit",    "buyer": "Thùy Linh",  "seller": "@denimlover",         "amount": 390000,  "ecoImpact": 14, "paymentMethod": "BANK", "status": "Đã hoàn thành", "createdAt": "2026-06-05T10:41:00.000Z" },
+    { "id": "HD-2026003", "productName": "Giày Sneakers Court",   "buyer": "Quốc Bảo",   "seller": "@sneakervn",          "amount": 680000,  "ecoImpact": 22, "paymentMethod": "MOMO", "status": "Đã hoàn thành", "createdAt": "2026-06-11T14:05:00.000Z" },
+    { "id": "HD-2026004", "productName": "Túi Tote Canvas",       "buyer": "Hà My",      "seller": "@coach_secondlife",   "amount": 1200000, "ecoImpact": 31, "paymentMethod": "BANK", "status": "Đã hoàn thành", "createdAt": "2026-06-18T09:27:00.000Z" },
+    { "id": "HD-2026005", "productName": "Áo Sơ Mi Oxford",       "buyer": "Duy Khang",  "seller": "@uniqlo_used",        "amount": 180000,  "ecoImpact": 10, "paymentMethod": "COD",  "status": "Đã hoàn thành", "createdAt": "2026-06-24T16:53:00.000Z" }
+  ]
+}
