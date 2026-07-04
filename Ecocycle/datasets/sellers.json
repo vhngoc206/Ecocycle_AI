@@ -1,0 +1,18 @@
+{
+  "sellers": [
+    {
+      "id": "seller_001",
+      "email": "ecoseller_87@ecocycle.ai",
+      "name": "Minh Anh",
+      "phone": "+84 912 345 678",
+      "address": "123 Phố Cổ, Hoàn Kiếm, Hà Nội",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop",
+      "bio": "Người bán hàng có trách nhiệm, kinh doanh thời trang secondhand chất lượng cao. Tập trung vào bền vững và giáo dục người tiêu dùng.",
+      "rating": 4.8,
+      "totalSales": 156,
+      "responseTime": "2 giờ",
+      "joinedAt": "2025-01-15T00:00:00.000Z",
+      "certifications": ["Verified Seller", "Top Rated", "Eco-Friendly"]
+    }
+  ]
+}
